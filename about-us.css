@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+}
+a{
+    background-color:#AA5656;
+    color: #e2ca8b;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+}
+p{
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: bold;
+    color: #262f26;
+
+}
+header{
+    background-color: #698269;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+}
